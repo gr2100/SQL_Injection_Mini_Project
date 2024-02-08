@@ -21,6 +21,8 @@ There are many different methods for carrying out a DoS attack. The most common 
 
 In conclusion, the project aimed to test network security and determine the overall effects of a denial-of-service attack against a targeted website/network. The project involved testing a denial-of-service SYN flood attack against a targeted system on our local network. We also used virtual machines to set up our testing environment as well as used some tools to analyse the network traffic during the simulation. The results of the project indicate that the detection of denial-of-service attacks is a challenging task, but it is possible to detect them using the mentioned tools. The study also proposes a creative, effective, efficient, and comprehensive prevention and detection of an actual Denial of Service (DoS) attack.
 
+Project done for my professional elective - Offensive Security
+
 ## References
 
 1. DoS Attack - Definition, Examples and Prevention (crashtest-security.com)
